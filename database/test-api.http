@@ -1,0 +1,8 @@
+### Test GitHub API
+GET https://api.github.com/users/bluetangclan
+
+### Test Simple API
+GET https://jsonplaceholder.typicode.com/posts/1
+
+### Test Cat Fact API
+GET https://catfact.ninja/fact

@@ -1,0 +1,4 @@
+### Test Health Endpoint
+GET http://localhost:3001/api/health
+### Test Civic Data Endpoint  
+GET http://localhost:3001/api/test
